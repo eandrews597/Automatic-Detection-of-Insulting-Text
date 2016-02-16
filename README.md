@@ -13,7 +13,7 @@ Methodology:
 - In order to distinguish between information and insult, NLP principles were used to create a set of rules.
 - The rules study the structure of the sentence and the relationship between the words in the sentence to perform this classification.
 - Annotation [1] is used in order to store some additional information about each word in the sentence.
-      Each word in the sentence is given an attribute if it belongs to any of the several categories.
+      Each word in the sentence is given an attribute if it belongs to any of the several predefined categories.
       For the purpose of this class project, a file holding about 5 – 10 words in each category was created. 
       In order to increase the accuracy of the software, additional words should be added to the lexicon.
 
