@@ -17,6 +17,9 @@ Methodology:
       For the purpose of this class project, a file holding about 5 – 10 words in each category was created. 
       In order to increase the accuracy of the software, additional words should be added to the lexicon.
 
+NOTE: 
+Due to limited time and scope of the project, the code was neither optimized nor designed according to preferred standards and quality. We primarily focused on writing and testing the language processing rules. This project is not maintained and will not be updated in the future. 
+
 Reference:
 
 [1]A. Mahmud, K. Z. Ahmed and M. Khan, "Detecting flames and insults in text," in 6th International Conference on Natural Language Processing , 2008.
